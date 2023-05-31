@@ -2,7 +2,7 @@
   "name": "react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Kathryne-Kat.github.io/WalletApp_TP/",
+  "homepage": "https://Kathryne-Kat.github.io/WalletApp/",
   "dependencies": {
     "@chakra-ui/react": "^2.5.1",
     "@emotion/react": "^11.10.6",
